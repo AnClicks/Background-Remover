@@ -6,7 +6,7 @@ This web application helps the user to remove the background of the image with j
 
 
 ## Demo
-[![Screenshot-2024-06-03-012026.png](https://i.postimg.cc/4N3cyqTL/Screenshot-2024-06-03-012026.png)](https://postimg.cc/V53vH7vn)
+[![Screenshot-2024-06-03-012026.png](https://i.postimg.cc/4N3cyqTL/Screenshot-2024-06-03-012026.png)](https://youtu.be/o4EVIvn-yNE)
 https://youtu.be/o4EVIvn-yNE
 
 
