@@ -26,7 +26,7 @@ https://youtu.be/o4EVIvn-yNE
 ```bash
 npm install shepherd.js --save
 ```
-3. Use you browser or any IDE of your choice and  use it on your local host.
+3. Use your browser or any IDE of your choice and  use it on your local host.
 ## Tech Stacks
 
 shepherd.js
